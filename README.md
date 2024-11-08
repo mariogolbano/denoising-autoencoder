@@ -12,12 +12,6 @@ This repository contains the study of the structure of autoencoders with the aim
 - Python 3.7 or higher
 - Jupyter Notebook
 
-
-## Methods and Techniques
-- **Data Preprocessing**: Text cleaning, tokenization and lemmatization.
-- **Feature Extraction**: Text Vectorization Techniques by implementing TFIDF, Word2Vec, BERT embeddings.
-- **Classification Models**: Random Forest and BERT for document classifcation.
-
 ## Dataset
 The MNIST and FMNIST datasets were used to evaluate the model's effectiveness. Noise was added to these datasets to create training data, with noise variances ranging from 0.1 to 2, enabling the model to learn to recover clean images.
 
