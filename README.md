@@ -23,7 +23,7 @@ The MNIST and FMNIST datasets were used to evaluate the model's effectiveness. N
 ## Results
 The autoencoder effectively reduced noise, as demonstrated by PSNR and visual comparisons. For optimal performance, a 3-layer architecture with a 50-dimensional bottleneck was used.
 
-### Usage
+## Usage
 For looking at the study of the different models tried, open one of the Jupyter Notebooks to view and run the code:
 
 - jupyter notebook denoising_autoencoder_FMNIST.ipynb
